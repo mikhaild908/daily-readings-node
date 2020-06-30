@@ -1,0 +1,19 @@
+{
+  "name": "daily-readings",
+  "version": "1.0.0",
+  "description": "Daily Readings from www.usccb.org",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Daily",
+    "Readings"
+  ],
+  "author": "Mike D",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node-fetch": "^2.5.7",
+    "node-fetch": "^2.6.0"
+  }
+}
